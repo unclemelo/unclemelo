@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unclemelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=unclemelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://cdn.discordapp.com/attachments/1308048258337345609/1335955965740191745/5315b0b07cf2c278483df008b5675b9a.png?ex=67a20d73&is=67a0bbf3&hm=e0d6525df2d3118f860f3639d90b61699e6f8a64733da9b650a0cf60c454d04c&"  />
 
 ###
@@ -35,5 +42,11 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/unclemelo/unclemelo/output/snake.svg" alt="Snake animation" />
 
 ###
