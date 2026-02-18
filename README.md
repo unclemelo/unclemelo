@@ -41,7 +41,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unclemelo&theme=dark&hide_border=true&count_private=true" height="165"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=unclemelo&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unclemelo&theme=dark&hide_border=true&layout=compact"/>
 </p>
