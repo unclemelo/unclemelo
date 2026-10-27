@@ -16,7 +16,6 @@ Come hang out while I code, focus on a match, or give you some background noise 
 <a href="https://www.tiktok.com/@unclemel0"><img src="https://img.shields.io/badge/TikTok-7563B8?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="Follow on TikTok" /></a>
 <a href="https://x.com/unclemel0"><img src="https://img.shields.io/badge/X-7563B8?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Follow on X" /></a>
 <a href="https://www.instagram.com/unclemel0/"><img src="https://img.shields.io/badge/Instagram-7563B8?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Follow on Instagram" /></a>
-<a href="https://bsky.app/profile/unclemelo.bsky.social"><img src="https://img.shields.io/badge/Bluesky-7563B8?style=for-the-badge&amp;logo=bluesky&amp;logoColor=white" alt="Follow on Bluesky" /></a>
 
 <br />
 <br />
