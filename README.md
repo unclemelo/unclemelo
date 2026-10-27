@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Melo's blue and purple catboy banner" width="100%" />
+  <img src="banner.png" alt="Melo's blue and purple catboy banner" width="100%" />
 </p>
 
 <div align="center">
